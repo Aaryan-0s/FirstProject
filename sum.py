@@ -1,4 +1,4 @@
 a= 10
 b= 50
 sum = a+b
-print(sum)
+print("the sum of two number is ",sum)
